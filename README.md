@@ -1,7 +1,7 @@
 # RESTful-hibernate
-<b>SETUP</b>
-<li>Create a db with name db_example</li>
-<li>Into db, create a student table with the following fields</li>
+<b>SETUP</b><br>
+Create a db with name db_example<br>
+Into db, create a student table with the following fields
 <ul>
   <li>Freshman</li>
   <li>Name</li>
